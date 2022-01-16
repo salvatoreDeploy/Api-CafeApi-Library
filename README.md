@@ -2,12 +2,12 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@HenriqueJArauj1-blue.svg?style=flat-square)](https://twitter.com/salvatoreDeploy)
 [![Source Code](http://img.shields.io/badge/source-salvatoreDeploy/cafeapi-blue.svg?style=flat-square)](https://github.com/salvatoreDeploy/cafeapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://packagist.org/packages/salvatoreDeploy/cafeapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/salvatoredeploy/cafeapi.svg?style=flat-square)](https://packagist.org/packages/salvatoreDeploy/cafeapi)
 [![Latest Version](https://img.shields.io/github/release/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://github.com/salvatoreDeploy/cafeapi/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/salvatoreDeploy/cafeapi)
 [![Quality Score](https://img.shields.io/scrutinizer/g/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/salvatoreDeploy/cafeapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://packagist.org/packages/csalvatoreDeploy/cafeapi)
+[![Total Downloads](https://img.shields.io/packagist/dt/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://packagist.org/packages/salvatoredeploy/cafeapi)
 
 ###### CaféApi Library is a small set of classes developed in ProjetosDeploy's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
