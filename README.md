@@ -152,7 +152,7 @@ Você também conta com classes para os endpoints de carteiras e assinaturas, to
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/salvatoreDeploy/uploader/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/salvatoreDeploy/cafeapi/blob/master/CONTRIBUTING.md) for details.
 
 ## Support
 
@@ -166,7 +166,7 @@ Thank you
 
 - [HENRIQUE J. ARAUJO](https://github.com/salvatoreDeploy) (Developer)
 - [Projetos Deploy](https://github.com/salvatoreDeploy) (Team)
-- [All Contributors](https://github.com/salvatoreDeploy/uploader/contributors) (This Rock)
+- [All Contributors](https://github.com/salvatoreDeploy/cafeapi/contributors) (This Rock)
 
 ## License
 
