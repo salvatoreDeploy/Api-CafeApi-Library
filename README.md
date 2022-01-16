@@ -164,7 +164,7 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/salvatoreDeploy) (Developer)
+- [HENRIQUE J. ARAUJO](https://github.com/salvatoreDeploy) (Developer)
 - [Projetos Deploy](https://github.com/salvatoreDeploy) (Team)
 - [All Contributors](https://github.com/salvatoreDeploy/uploader/contributors) (This Rock)
 
