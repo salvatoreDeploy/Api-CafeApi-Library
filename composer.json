@@ -1,0 +1,31 @@
+{
+  "name": "salvatoredeploy/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Henrique J. Araujo",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "http://www.projetosdeploy.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Henrique J. Araujo",
+      "email": "projetosdeploy@gmail.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "salvatoreDeploy\\CafeApi\\": "src"
+    }
+  }
+}
