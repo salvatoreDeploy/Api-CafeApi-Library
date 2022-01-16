@@ -27,7 +27,7 @@ Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
 Uploader is available via Composer:
 
 ```bash
-"salvatoreDeploy/cafeapi": "^1.0"
+"salvatoredeploy/cafeapi": "^1.0"
 ```
 
 or run
