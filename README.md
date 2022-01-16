@@ -2,7 +2,7 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@HenriqueJArauj1-blue.svg?style=flat-square)](https://twitter.com/salvatoreDeploy)
 [![Source Code](http://img.shields.io/badge/source-salvatoreDeploy/cafeapi-blue.svg?style=flat-square)](https://github.com/salvatoreDeploy/cafeapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/salvatoredeploy/cafeapi.svg?style=flat-square)](https://packagist.org/packages/salvatoreDeploy/cafeapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/salvatoredeploy/cafeapi.svg?style=flat-square)](https://packagist.org/packages/salvatoredeploy/cafeapi)
 [![Latest Version](https://img.shields.io/github/release/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://github.com/salvatoreDeploy/cafeapi/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/salvatoreDeploy/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/salvatoreDeploy/cafeapi)
