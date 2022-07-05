@@ -11,7 +11,7 @@
 
 ###### CaféApi Library is a small set of classes developed in ProjetosDeploy's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
-CaféApi Library é um pequeno conjunto de classes desenvolvidas para integração ao webservice de uma plataforma SaaS desenvolvida no curso.
+CaféApi Library é um pequeno conjunto de classes desenvolvidas para integração ao webservice e consumo da api CaféApi de uma plataforma SaaS desenvolvida para controle financeiro.
 
 Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
 
